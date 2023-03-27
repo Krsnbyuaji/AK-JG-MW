@@ -1,14 +1,6 @@
-RENCANA KONTEN SETINGAN
-
-- JAVASCRIPT
-  * ES6
-  * Framework Javascript
-    ^ Vue
-    ^ React 
-    ^ Angular 
-- Struktur Data Dasar 
-- PHP FRAMEWORK
-   ^ Laravel 
-- INTERVIEW
-- VLOG
-- Python 
+Krisna-resolusi
+- konsisten membuat konten 2x seminggu
+- Membuat platform untuk pengelolaan web
+- Membuat forum diskusi 
+- Kolaborasi dengan lebih banyak expert   
+- Membuat vlog 
