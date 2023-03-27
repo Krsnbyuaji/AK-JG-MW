@@ -3,10 +3,12 @@ MEMBUAT KONTEN BYUAJI
 - JAVASCRIPT
   *ES6
   *FRAMEWORK JAVASCRIPT
-   ^Angular
+   ^Vue
    ^React
  - STRUKTUR DATA DASAR
+   ^Laravel
 - PHP FRAMEWORKS
   ^Laravel
 - INTERVIEW
 - PILOGS
+- Pyhton
