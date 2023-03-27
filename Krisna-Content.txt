@@ -1,0 +1,14 @@
+RENCANA KONTEN SETINGAN
+
+- JAVASCRIPT
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React 
+    ^ Angular 
+- Struktur Data Dasar 
+- PHP FRAMEWORK
+   ^ Laravel 
+- INTERVIEW
+- VLOG
+- Python 
