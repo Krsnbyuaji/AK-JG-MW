@@ -1,2 +1,2 @@
 # AK-JG-MW
-BERISI TENTANG KEGABUTANKU
+Contains about me and you
