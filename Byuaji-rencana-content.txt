@@ -5,8 +5,8 @@ MEMBUAT KONTEN BYUAJI
   *FRAMEWORK JAVASCRIPT
    ^Vue
    ^React
+   ^Angular
  - STRUKTUR DATA DASAR
-   ^Laravel
 - PHP FRAMEWORKS
   ^Laravel
 - INTERVIEW
